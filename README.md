@@ -7,7 +7,7 @@ This project collects data from the Hacker News API, saves it to CSV files, and 
 1. **Clone the Repository**
 
     ```
-   ???
+   git clone https://github.com/yuda03979/hacker_news.git
     ```
 
 2. **Install Dependencies**
